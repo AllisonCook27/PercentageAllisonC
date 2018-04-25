@@ -1,0 +1,9 @@
+N:\StuShare\Semester 2 - Winter 2018\ICS3U Programming\Cook, Allison (s241474)\Unit 4 (Procedures & Functions)\PercentageAllisonC\PercentageAllisonC\bin\Debug\PercentageAllisonC.exe.config
+N:\StuShare\Semester 2 - Winter 2018\ICS3U Programming\Cook, Allison (s241474)\Unit 4 (Procedures & Functions)\PercentageAllisonC\PercentageAllisonC\bin\Debug\PercentageAllisonC.exe
+N:\StuShare\Semester 2 - Winter 2018\ICS3U Programming\Cook, Allison (s241474)\Unit 4 (Procedures & Functions)\PercentageAllisonC\PercentageAllisonC\bin\Debug\PercentageAllisonC.pdb
+N:\StuShare\Semester 2 - Winter 2018\ICS3U Programming\Cook, Allison (s241474)\Unit 4 (Procedures & Functions)\PercentageAllisonC\PercentageAllisonC\obj\Debug\PercentageAllisonC.csprojResolveAssemblyReference.cache
+N:\StuShare\Semester 2 - Winter 2018\ICS3U Programming\Cook, Allison (s241474)\Unit 4 (Procedures & Functions)\PercentageAllisonC\PercentageAllisonC\obj\Debug\PercentageAllisonC.frmPercentage.resources
+N:\StuShare\Semester 2 - Winter 2018\ICS3U Programming\Cook, Allison (s241474)\Unit 4 (Procedures & Functions)\PercentageAllisonC\PercentageAllisonC\obj\Debug\PercentageAllisonC.Properties.Resources.resources
+N:\StuShare\Semester 2 - Winter 2018\ICS3U Programming\Cook, Allison (s241474)\Unit 4 (Procedures & Functions)\PercentageAllisonC\PercentageAllisonC\obj\Debug\PercentageAllisonC.csproj.GenerateResource.Cache
+N:\StuShare\Semester 2 - Winter 2018\ICS3U Programming\Cook, Allison (s241474)\Unit 4 (Procedures & Functions)\PercentageAllisonC\PercentageAllisonC\obj\Debug\PercentageAllisonC.exe
+N:\StuShare\Semester 2 - Winter 2018\ICS3U Programming\Cook, Allison (s241474)\Unit 4 (Procedures & Functions)\PercentageAllisonC\PercentageAllisonC\obj\Debug\PercentageAllisonC.pdb

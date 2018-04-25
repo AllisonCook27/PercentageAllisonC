@@ -77,6 +77,21 @@ namespace PercentageAllisonC
                 case "0":
                     percent = 40;
                     break;
+                case "0-":
+                    percent = 35;
+                    break;
+                case "0--":
+                    percent = 30;
+                    break;
+                case "0---":
+                    percent = 20;
+                    break;
+                case "0----":
+                    percent = 10;
+                    break;
+                default:
+                    percent = -1;
+                        break;
             }
 
             //retruning percent to the function
@@ -95,8 +110,17 @@ namespace PercentageAllisonC
             //calling the function to convert the level to percent
             percent = ConvertToPercent(level);
 
-            //display a message showing the percentage the level is worth
-            MessageBox.Show("Level " + level + " is equivalent to " + percent + " %", "Percentage Program");
+            //checking if they inputed the right level
+            if (percent == -1)
+            {
+                //display error message
+                MessageBox.Show("Please enter a level", "Percentage program");
+            }
+            else
+            {
+                //display a message showing the percentage the level is worth
+                MessageBox.Show("Level " + level + " is equivalent to " + percent + " %", "Percentage Program");
+            }
 
         }
     }
