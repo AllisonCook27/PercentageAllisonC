@@ -35,7 +35,48 @@ namespace PercentageAllisonC
                 case "4++":
                     percent = 98;
                     break;
-                
+                case "4+":
+                    percent = 95;
+                    break;
+                case "4":
+                    percent = 87;
+                    break;
+                case "4-":
+                    percent = 83;
+                    break;
+                case "3+":
+                    percent = 78;
+                    break;
+                case "3":
+                    percent = 75;
+                    break;
+                case "3-":
+                    percent = 72;
+                    break;
+                case "2+":
+                    percent = 68;
+                    break;
+                case "2":
+                    percent = 65;
+                    break;
+                case "2-":
+                    percent = 62;
+                    break;
+                case "1+":
+                    percent = 58;
+                    break;
+                case "1":
+                    percent = 55;
+                    break;
+                case "1-":
+                    percent = 52;
+                    break;
+                case "0+":
+                    percent = 45;
+                    break;
+                case "0":
+                    percent = 40;
+                    break;
             }
 
             //retruning percent to the function
@@ -55,7 +96,7 @@ namespace PercentageAllisonC
             percent = ConvertToPercent(level);
 
             //display a message showing the percentage the level is worth
-            MessageBox.Show("Level " + level + " is equivalent to " + percent, "Percentage Program");
+            MessageBox.Show("Level " + level + " is equivalent to " + percent + " %", "Percentage Program");
 
         }
     }
